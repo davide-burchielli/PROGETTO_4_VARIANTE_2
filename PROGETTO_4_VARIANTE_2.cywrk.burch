@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PROGETTO_4_VARIANTE_2\PROVA1">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PROGETTO_4_VARIANTE_2\OxygenSaturation_HeartRate">
 <ExpandedNodeIds>
 <v>PROGETTO_4_VARIANTE_2</v>
 <v>PROGETTO_4_VARIANTE_2\OxygenSaturation_HeartRate</v>
@@ -102,6 +102,7 @@
 <v>PROGETTO_4_VARIANTE_2\PROVA1\CY8C58LP Family Datasheet</v>
 <v>PROGETTO_4_VARIANTE_2\PROVA1\System Reference Guides</v>
 <v>PROGETTO_4_VARIANTE_2\PROVA1\System Reference Guides\cy_boot_v5_90</v>
+<v>PROGETTO_4_VARIANTE_2\PROVA1\AnnotationLibrary_v1_0_A.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>PROGETTO_4_VARIANTE_2</v>
@@ -110,6 +111,7 @@
 <v>PROGETTO_4_VARIANTE_2\PROVA1\CY8C58LP Family Datasheet</v>
 <v>PROGETTO_4_VARIANTE_2\PROVA1\System Reference Guides</v>
 <v>PROGETTO_4_VARIANTE_2\PROVA1\System Reference Guides\cy_boot_v5_90</v>
+<v>PROGETTO_4_VARIANTE_2\PROVA1\AnnotationLibrary_v1_0_A.pdf</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
@@ -125,7 +127,16 @@
 <Unloaded>
 <project v=".\OxygenSaturation_HeartRate.cydsn\OxygenSaturation_HeartRate.cyprj" />
 </Unloaded>
-<OpenDocs />
+<OpenDocs>
+<name v=".\PROVA1.cydsn\TopDesign\TopDesign.cysch" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="842, 83" SelectedTabbedMdiWindow="98263d11-5864-46e5-8a43-b22da45ccf7f"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="76110cd6-61eb-44ee-b313-c57f59cbdad3" /><DocumentWindow Key="C:\Users\burch\OneDrive\Desktop\laboratorio_project\PROGETTO_4_VARIANTE_2\PROVA1.cydsn\TopDesign\TopDesign.cysch" Guid="98263d11-5864-46e5-8a43-b22da45ccf7f" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
